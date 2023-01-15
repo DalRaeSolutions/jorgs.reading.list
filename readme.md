@@ -1,21 +1,21 @@
 # jorgs.reading.list
 Attempting to track the links and blogs I've found useful
 
-Januari 2021
+## Januari 2021
 
 [Get Certified: Cloud Foundry Certified Developer (CFCD)](https://blogs.sap.com/2021/01/20/get-certified-cloud-foundry-certified-developer-cfcd/)
 
-April 2022
+## April 2022
 
 [Architecting, Solutioning & Scaling Complex Apps using SAP BTP Extension Suite: Real Time CAPM Scenarios](https://blogs.sap.com/2022/04/06/architecting-solutioning-scaling-complex-apps-using-sap-btp-extension-suite-real-time-capm-scenarios/)
 
-October 2022
+## October 2022
 
 [A new generation of CDS views: how to migrate your CDS views to CDS view entities](https://blogs.sap.com/2021/10/16/a-new-generation-of-cds-views-how-to-migrate-your-cds-views-to-cds-view-entities/)
 
-
 [Principal Propagation from Cloud Foundry to Successfactors System](https://blogs.sap.com/2022/10/27/principal-propagation-from-cloud-foundry-to-successfactors-system/)
-November 2022
+
+## November 2022
 
 [Extensibility guide for SAP S/4HANA: Extensibility explorer](https://blogs.sap.com/2022/11/17/extensibility-guide-for-sap-s-4hana-cloud-sap-extensibility-explorer/#:~:text=Extensibility%20Guide%20for%20SAP%20S/4HANA%20Cloud%20%3A%20SAP%20Extensibility%20Explorer)
 
@@ -27,7 +27,7 @@ November 2022
 
 [Architecting Solutions with SAP Business Technology Platform | Book Review](https://blogs.sap.com/2022/11/09/architecting-solutions-with-sap-business-technology-platform-book-review/?)
 
-December 2022
+## December 2022
 
 [Fiori Elements showcase with RAP and ABAP CDS](https://blogs.sap.com/2022/12/19/the-sap-fiori-elements-feature-showcase-with-rap-and-abap-cds-annotations)
 
@@ -43,7 +43,7 @@ December 2022
 
 [UI5 tooling repo](https://github.com/SAP/ui5-tooling)
 
-Januari 2023
+## Januari 2023
 
 [Updated 5 Golden Rules for implementing SAP S/4HANA Cloud](https://blogs.sap.com/2023/01/12/updated-5-golden-rules-for-implementing-sap-s-4hana-cloud/)
 
