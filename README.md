@@ -1,4 +1,4 @@
-# jorgs.reading.list
+# Reading list
 Attempting to track the links and blogs I've found useful
 
 ## Januari 2021
