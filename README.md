@@ -43,6 +43,8 @@ Attempting to track the links and blogs I've found useful
 
 [UI5 tooling repo](https://github.com/SAP/ui5-tooling)
 
+[BTP Best Practice repo](https://github.com/SAP-docs/btp-best-practices-guide/blob/main/docs/deploy-and-deliver/delivering-applications-b39bae3.md)
+
 ## Januari 2023
 
 [Updated 5 Golden Rules for implementing SAP S/4HANA Cloud](https://blogs.sap.com/2023/01/12/updated-5-golden-rules-for-implementing-sap-s-4hana-cloud/)
@@ -50,3 +52,5 @@ Attempting to track the links and blogs I've found useful
 [Automation Pilot : Start & Stop HANA Instance, Schedule Executions on Automation Pilot](https://blogs.sap.com/2023/01/10/automation-pilot-start-stop-hana-instance-schedule-executions-on-automation-pilot/)
 
 [Google Vertex AI triggering calculations / ML in SAP Data Warehouse Cloud](https://blogs.sap.com/2023/01/09/google-vertex-ai-triggering-calculations-ml-in-sap-data-warehouse-cloud/)
+
+[BTP Best Practice guide (PDF)](https://help.sap.com/doc/463beee05122412db150e08e6f444b7e/Cloud/en-US/Planning_LM.pdf)
