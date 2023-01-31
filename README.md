@@ -54,3 +54,5 @@ Attempting to track the links and blogs I've found useful
 [Google Vertex AI triggering calculations / ML in SAP Data Warehouse Cloud](https://blogs.sap.com/2023/01/09/google-vertex-ai-triggering-calculations-ml-in-sap-data-warehouse-cloud/)
 
 [BTP Best Practice guide (PDF)](https://help.sap.com/doc/463beee05122412db150e08e6f444b7e/Cloud/en-US/Planning_LM.pdf)
+
+[Power of serverless with SAP BTP, Kyma runtime](https://blogs.sap.com/2023/01/29/power-of-serverless-with-sap-btp-kyma-runtime.-base-image-override)
