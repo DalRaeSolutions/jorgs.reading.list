@@ -56,3 +56,5 @@ Attempting to track the links and blogs I've found useful
 [BTP Best Practice guide (PDF)](https://help.sap.com/doc/463beee05122412db150e08e6f444b7e/Cloud/en-US/Planning_LM.pdf)
 
 [Power of serverless with SAP BTP, Kyma runtime, base image override](https://blogs.sap.com/2023/01/29/power-of-serverless-with-sap-btp-kyma-runtime.-base-image-override)
+
+[RAP service generator](https://github.com/SAP-samples/cloud-abap-rap/)
