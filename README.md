@@ -58,3 +58,7 @@ Attempting to track the links and blogs I've found useful
 [Power of serverless with SAP BTP, Kyma runtime, base image override](https://blogs.sap.com/2023/01/29/power-of-serverless-with-sap-btp-kyma-runtime.-base-image-override)
 
 [RAP service generator](https://github.com/SAP-samples/cloud-abap-rap/)
+
+## Februari 2023
+
+[Cross destination MTA connections](https://blogs.sap.com/2021/04/02/split-mta-into-backend-frontend-the-final-piece/)
