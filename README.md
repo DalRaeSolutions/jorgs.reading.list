@@ -62,3 +62,5 @@ Attempting to track the links and blogs I've found useful
 ## Februari 2023
 
 [Cross destination MTA connections](https://blogs.sap.com/2021/04/02/split-mta-into-backend-frontend-the-final-piece/)
+
+[Consuming SAP Build API’s made easy with SAP Cloud SDK in your CAP application](https://blogs.sap.com/2023/02/08/consuming-sap-build-apis-made-easy-with-sap-cloud-sdk-in-your-sap-cap-app/)
