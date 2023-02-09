@@ -64,3 +64,5 @@ Attempting to track the links and blogs I've found useful
 [Cross destination MTA connections](https://blogs.sap.com/2021/04/02/split-mta-into-backend-frontend-the-final-piece/)
 
 [Consuming SAP Build API’s made easy with SAP Cloud SDK in your CAP application](https://blogs.sap.com/2023/02/08/consuming-sap-build-apis-made-easy-with-sap-cloud-sdk-in-your-sap-cap-app/)
+
+([Part – 1] Enrich CAP based Services with Behaviors using Annotations)[https://blogs.sap.com/2023/01/28/part-1-enrich-cap-based-services-with-behaviors-using-annotations/]
