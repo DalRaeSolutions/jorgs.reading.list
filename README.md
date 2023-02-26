@@ -66,3 +66,13 @@ Attempting to track the links and blogs I've found useful
 [Consuming SAP Build API’s made easy with SAP Cloud SDK in your CAP application](https://blogs.sap.com/2023/02/08/consuming-sap-build-apis-made-easy-with-sap-cloud-sdk-in-your-sap-cap-app/)
 
 ([Part – 1] Enrich CAP based Services with Behaviors using Annotations)[https://blogs.sap.com/2023/01/28/part-1-enrich-cap-based-services-with-behaviors-using-annotations/]
+
+## March 2023
+
+[Get to Know RAP: CDS Behavior Definition](https://blogs.sap.com/2023/02/09/get-to-know-rap-cds-behavior-definition/?source=social-Global-LINKEDIN_COMPANY-MarketingCampaign-Developers-No_Solution_Area-spr-8868543912-account_name&campaigncode=CRM-XB23-MKT-DGEALL&sprinklrid=8868543912)
+
+[Want to Know What’s New in SAPUI5 and SAP Fiori Elements? Check the What’s New Viewer!](https://blogs.sap.com/2023/02/23/want-to-know-whats-new-in-sapui5-and-sap-fiori-elements-check-the-whats-new-viewer/)
+
+[Modernize your SAP eco-system with SAP BTP and AWS services](https://aws.amazon.com/blogs/awsforsap/modernize-your-sap-eco-system-with-sap-btp-and-aws-services/)
+
+[UI5 custom control ui5-cc-excelupload](https://www.npmjs.com/package/ui5-cc-excelupload)
