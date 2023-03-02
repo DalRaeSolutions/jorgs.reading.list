@@ -78,3 +78,5 @@ Attempting to track the links and blogs I've found useful
 [UI5 custom control ui5-cc-excelupload](https://www.npmjs.com/package/ui5-cc-excelupload)
 
 [SAP Fiori Elements for OData V4 Knowledge Resources](https://blogs.sap.com/2023/02/24/sap-fiori-elements-for-odata-v4-knowledge-resources/)
+
+[Flexible Programming Model Explorer](https://sapui5.hana.ondemand.com/test-resources/sap/fe/core/fpmExplorer/index.html#/overview/introduction)
