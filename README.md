@@ -76,3 +76,5 @@ Attempting to track the links and blogs I've found useful
 [Modernize your SAP eco-system with SAP BTP and AWS services](https://aws.amazon.com/blogs/awsforsap/modernize-your-sap-eco-system-with-sap-btp-and-aws-services/)
 
 [UI5 custom control ui5-cc-excelupload](https://www.npmjs.com/package/ui5-cc-excelupload)
+
+[SAP Fiori Elements for OData V4 Knowledge Resources](https://blogs.sap.com/2023/02/24/sap-fiori-elements-for-odata-v4-knowledge-resources/)
