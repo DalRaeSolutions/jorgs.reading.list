@@ -82,3 +82,5 @@ Attempting to track the links and blogs I've found useful
 [Flexible Programming Model Explorer](https://sapui5.hana.ondemand.com/test-resources/sap/fe/core/fpmExplorer/index.html#/overview/introduction)
 
 [Fundamentals of multitenancy in SAP BTP](https://blogs.sap.com/2022/08/27/fundamentals-of-multitenancy-in-sap-btp/)
+
+[CAP MTX multitenancy tool and overview](https://cap-js-community.github.io/mtx-tool/)
