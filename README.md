@@ -65,7 +65,7 @@ Attempting to track the links and blogs I've found useful
 
 [Consuming SAP Build API’s made easy with SAP Cloud SDK in your CAP application](https://blogs.sap.com/2023/02/08/consuming-sap-build-apis-made-easy-with-sap-cloud-sdk-in-your-sap-cap-app/)
 
-([Part – 1] Enrich CAP based Services with Behaviors using Annotations)[https://blogs.sap.com/2023/01/28/part-1-enrich-cap-based-services-with-behaviors-using-annotations/]
+[[Part – 1] Enrich CAP based Services with Behaviors using Annotations](https://blogs.sap.com/2023/01/28/part-1-enrich-cap-based-services-with-behaviors-using-annotations/)
 
 ## March 2023
 
@@ -84,3 +84,6 @@ Attempting to track the links and blogs I've found useful
 [Fundamentals of multitenancy in SAP BTP](https://blogs.sap.com/2022/08/27/fundamentals-of-multitenancy-in-sap-btp/)
 
 [CAP MTX multitenancy tool and overview](https://cap-js-community.github.io/mtx-tool/)
+
+## April 2023
+[Resilient Apps (PDF)](https://help.sap.com/doc/6a87ef93fe554dde919548e9c4c86299/Cloud/en-US/resilient_apps.pdf)
