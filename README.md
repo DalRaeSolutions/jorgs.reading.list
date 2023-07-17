@@ -87,3 +87,9 @@ Attempting to track the links and blogs I've found useful
 
 ## April 2023
 [Resilient Apps (PDF)](https://help.sap.com/doc/6a87ef93fe554dde919548e9c4c86299/Cloud/en-US/resilient_apps.pdf)
+
+## June 2023
+[SaaS Self onboarding concept on Kyma and CAP](https://blogs.sap.com/2023/06/01/saas-self-onboarding-and-one-domain-concept-in-sap-btp-kyma-runtime-using-cap/)
+## July 2023
+[Terraform provider for SAP BTP](https://blogs.sap.com/2023/06/26/terraform-provider-for-sap-btp-now-available-for-non-productive-use/)
+[Getting started with Fundamental Library](https://medium.com/@marius.obert/getting-started-with-fundamental-library-styles-in-2023-a4faa28575da)
