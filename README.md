@@ -96,3 +96,7 @@ Attempting to track the links and blogs I've found useful
 [Getting started with Fundamental Library](https://medium.com/@marius.obert/getting-started-with-fundamental-library-styles-in-2023-a4faa28575da)
 
 [CAP: Consuming external services](https://blogs.sap.com/2020/05/27/cap-consume-external-service-part-2/)
+
+[Integration Architecture for Enterprise Agility power by SAP BTP](https://blogs.sap.com/2023/07/05/integration-architecture-for-enterprise-agility-powered-by-sap-btp/)
+
+[Migrate to UI5 tooling V3](https://sap.github.io/ui5-tooling/v3/updates/migrate-v3/)
