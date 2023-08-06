@@ -99,4 +99,16 @@ Attempting to track the links and blogs I've found useful
 
 [Integration Architecture for Enterprise Agility power by SAP BTP](https://blogs.sap.com/2023/07/05/integration-architecture-for-enterprise-agility-powered-by-sap-btp/)
 
+
+## August 2023
+
 [Migrate to UI5 tooling V3](https://sap.github.io/ui5-tooling/v3/updates/migrate-v3/)
+
+[Run and Deploy SAP CAP (Java) with PostgreSQL using Official Database Adapter @cap-js/postgres](https://blogs.sap.com/2023/08/02/run-and-deploy-sap-cap-java-with-postgresql-using-official-database-adapter-cap-js-postgres/)
+
+[SAP CAP (Java) with Amazon Aurora PostgreSQL](https://blogs.sap.com/2023/08/02/sap-cap-java-with-amazon-aurora-postgresql/)
+
+[SAP CAP (Java) with Azure Cosmos DB for PostgreSQL](https://blogs.sap.com/2023/08/02/sap-cap-java-with-azure-cosmos-db-for-postgresql/)
+
+[Migrating from the Neo Environment to the Multi-Cloud Foundation (Cloud Foundry and Kyma)](https://help.sap.com/docs/btp/migrating-from-neo-environment-to-multi-cloud-foundation-cloud-foundry-and-kyma/migrating-from-neo-environment-to-multi-cloud-foundation-cloud-foundry-and-kyma)
+
