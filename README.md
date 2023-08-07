@@ -112,3 +112,4 @@ Attempting to track the links and blogs I've found useful
 
 [Migrating from the Neo Environment to the Multi-Cloud Foundation (Cloud Foundry and Kyma)](https://help.sap.com/docs/btp/migrating-from-neo-environment-to-multi-cloud-foundation-cloud-foundry-and-kyma/migrating-from-neo-environment-to-multi-cloud-foundation-cloud-foundry-and-kyma)
 
+[BTP Reference Architecture Examples](https://github.com/SAP/sap-btp-reference-architectures/tree/main)
